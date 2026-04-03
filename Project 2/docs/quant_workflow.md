@@ -161,7 +161,7 @@ d₁ = [ln(F/K) + σ²T/2] / (σ √T)
 d₂ = d₁ − σ √T
 ```
 
-**Sources:** Black (1976) [REF-5]; Cox, Ingersoll & Ross (1985b) [REF-7].
+**Sources:** Black (1976) [REF-5]; Cox, Ingersoll & Ross (1981) [REF-7].
 
 ---
 

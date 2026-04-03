@@ -156,9 +156,9 @@ as well as a practical tool for American-style options.
 
 ---
 
-## [REF-7] Cox, Ingersoll & Ross (1985b)
+## [REF-7] Cox, Ingersoll & Ross (1981)
 
-**Cox, J. C., Ingersoll, J. E., Jr., & Ross, S. A. (1985).** The relation between forward prices
+**Cox, J. C., Ingersoll, J. E., Jr., & Ross, S. A. (1981).** The relation between forward prices
 and futures prices. *Journal of Financial Economics*, **9**(4), 321–346.
 <https://doi.org/10.1016/0304-405X(81)90002-7>
 
@@ -602,7 +602,7 @@ function approach.
 | REF-11 | Merton | 1976 | *J. Financial Economics* | Jump-diffusion |
 | REF-12 | Kou | 2002 | *Management Science* | Double-exponential jumps |
 | REF-13 | Vasicek | 1977 | *J. Financial Economics* | Short-rate model |
-| REF-14 | Cox, Ingersoll & Ross | 1985a | *Econometrica* | CIR term structure |
+| REF-14 | Cox, Ingersoll & Ross | 1985 | *Econometrica* | CIR term structure |
 | REF-15 | Heath, Jarrow & Morton | 1992 | *Econometrica* | Forward-rate HJM framework |
 | REF-16 | Hagan et al. | 2002 | *Wilmott Magazine* | SABR model |
 | REF-17 | Brennan & Schwartz | 1977 | *J. Finance* | FD method for American puts |
